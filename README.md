@@ -19,3 +19,9 @@ Rajiv Gandhi International Airport
    3. Taxi
 2. We can book a cab from airport directly. the distance is 12km from the airport.
 3. Metro route to see step by step directions with maps, line arrival times and updated time schedules.
+
+
+* Charminar
+* Birla Planitorium
+* Golkonda
+* Falaknama palace
