@@ -41,4 +41,10 @@ Rajiv Gandhi International Airport
 |Chennai| Golden Beach| 1 day|
 
 
- 
+ ---
+ > Try and fail try and fail but never fail to try.
+ >> *Some body*
+
+
+ > The purpose of lifes is to be happy.
+ >> *Every body*
