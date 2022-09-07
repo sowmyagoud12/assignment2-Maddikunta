@@ -29,3 +29,16 @@ Rajiv Gandhi International Airport
 
 
 [About Me](AboutMe.md)
+
+
+---
+
+# Table section
+| Name of the city | Location | Time Spent |
+|---| ---| ---|
+|Hyderabad| Birla Mandir | 1 day |
+|Pune| Lonawala| 3 days|
+|Chennai| Golden Beach| 1 day|
+
+
+ 
