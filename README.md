@@ -45,11 +45,11 @@ Rajiv Gandhi International Airport
 # Quotes
 
  > Try and fail try and fail but never fail to try.
- >> *Some body*
+ >> *Darab Imteyaz*
 
 
  > The purpose of lifes is to be happy.
- >> *Every body*
+ >> *Dalailama*
 
  ---
  # Code Fencing
