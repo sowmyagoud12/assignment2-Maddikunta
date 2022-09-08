@@ -42,6 +42,8 @@ Rajiv Gandhi International Airport
 
 
  ---
+# Quotes
+
  > Try and fail try and fail but never fail to try.
  >> *Some body*
 
@@ -50,6 +52,7 @@ Rajiv Gandhi International Airport
  >> *Every body*
 
  ---
+ # Code Fencing
 > Can I set subject/content of email using mailto:?
 >> https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto
 
